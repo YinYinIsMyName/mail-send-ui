@@ -1,0 +1,6 @@
+export const ChangeInputName = "ChangeInputName"
+export const ChangeInputNumber = "ChangeInputNumber"
+export const ChangeInputEmail = "ChangeInputEmail"
+export const ChangeInputDate = "ChangeInputDate"
+export const ChangeInputMessage = "ChangeInputMessage"
+export const ReturnMessage = "ReturnMessage"
